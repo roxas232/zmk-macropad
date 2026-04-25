@@ -1,0 +1,3 @@
+include:
+  - board: raspberry_pi_pico
+    shield: wavepad
